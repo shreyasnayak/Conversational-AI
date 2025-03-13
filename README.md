@@ -42,5 +42,5 @@ If you're interested in collaboration or have any questions:
 
 🔗 [Linked In](https://linkedin.com/in/shreyas-nayak-1826a710a)
 
-📧 shreyasnayak21@gmail.com  
+
 
