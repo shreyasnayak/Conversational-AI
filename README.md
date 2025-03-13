@@ -39,5 +39,8 @@ _This project is currently private. Setup instructions will be added once the pr
 ## Contact
 
 If you're interested in collaboration or have any questions:  
+
+🔗 [Linked In](https://linkedin.com/in/shreyas-nayak-1826a710a)
+
 📧 shreyasnayak21@gmail.com  
-🔗 LinkedIn/GitHub link
+
