@@ -26,7 +26,7 @@ Currently, this project is **private**, but here are a few highlights of the pro
 
 Here are some MP3 recordings showcasing the current capabilities of the system:
 
-📂 [Demo 1 ](demo\demo_01.mp3)
+📂 [ Bank AI ](https://github.com/shreyasnayak/Conversational-AI/raw/refs/heads/main/demo/demo_01.mp3)
 
 *( Note: These recordings are provided for demonstration purposes only. The project is still under development. )*
 
