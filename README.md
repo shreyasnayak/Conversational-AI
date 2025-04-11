@@ -28,12 +28,6 @@ Here are some MP3 recordings showcasing the current capabilities of the system:
 
 📂 [ Bank AI ](https://github.com/shreyasnayak/Conversational-AI/raw/refs/heads/main/demo/demo_01.mp3)
 
-*( Note: These recordings are provided for demonstration purposes only. The project is still under development. )*
-
-## Getting Started
-
-_This project is currently private. Setup instructions will be added once the project is ready for public release._
-
 ---
 
 ## Contact
